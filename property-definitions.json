@@ -116,5 +116,13 @@
   "enable-lan-visibility": {
     "env": "ENABLE_LAN_VISIBILITY",
     "allowed": ["true","false"]
+  },
+  "content-log-level": {
+    "env": "CONTENT_LOG_LEVEL",
+    "allowed": ["error","warning","info","verbose"]
+  },
+  "content-log-console-output-enabled": {
+    "env": "CONTENT_LOG_TO_CONSOLE",
+    "allowed": ["true","false"]
   }
 }

@@ -76,6 +76,8 @@ The following environment variables will set the equivalent property in `server.
 - `PLAYER_MOVEMENT_DISTANCE_THRESHOLD`
 - `PLAYER_MOVEMENT_DURATION_THRESHOLD_IN_MS`
 - `CORRECT_PLAYER_MOVEMENT`
+- `CONTENT_LOG_TO_CONSOLE`
+- `CONTENT_LOG_LEVEL`
 
 For example, to configure a flat, creative server instead of the default use:
 
